@@ -20,7 +20,7 @@
 
 ## 🧾 Overview
 
-The course covers topics such as **2.5D/3D packaging**, **wafer-level packaging**, and **reliability testing**, bridging the gap between **traditional chip design** and **modern packaging innovations**.  
+This course offers a balanced blend of theory and hands-on labs in semiconductor packaging. Theoretical modules cover **packaging evolution, assembly processes, design principles, and reliability testing**.  
 🛠️ Hands-on experience includes:
 - 🔥 Thermal simulation of **flip-chip BGA** in **ANSYS Icepak**
 - ✍️ Designing a **wire-bond package** using **Q3D**
