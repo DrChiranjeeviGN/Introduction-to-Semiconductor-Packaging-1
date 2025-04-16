@@ -1,7 +1,7 @@
 
 # 🌟Introduction to Semiconductor Packaging🌟
 
-> 🎓 A course from **VSD** introducing semiconductor packaging through **theory** and **hands-on labs**.
+> 🎓 A course from **VSD** introducing semiconductor packaging through **theory** and **hands-on**.
 
 ---
 
