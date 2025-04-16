@@ -29,7 +29,7 @@ This course offers a balanced blend of theory and hands-on labs in semiconductor
 
 ## 🧩 Modules
 
-### 📦 Module 1: Packaging Evolution — From Basics to 3D Integration
+### Module 1: Packaging Evolution — From Basics to 3D Integration
 
 *This module traces the development of semiconductor packaging, starting from traditional methods like Dual In-line Packages (DIP) to advanced techniques such as 2.5D and 3D Integrated Circuits (ICs). It covers various packaging types, including Quad Flat No-lead (QFN) and Ball Grid Array (BGA), and discusses the role of interposers and substrates in modern packaging solutions.*
 
@@ -40,7 +40,7 @@ This course offers a balanced blend of theory and hands-on labs in semiconductor
 - 📘 **Lecture 5:**[Comparative Analysis And Selecting The Right Packaging Solution](./Module%201%20-%20Packaging%20Evolution%3A%20From%20Basics%20to%203D%20Integration/%20L5%20-%20Comparative%20Analysis%20And%20Selecting%20The%20Right%20Packaging%20Solution/)
 
 ---
-### 🏭 Module 2: From Wafer to Package — Assembly and Manufacturing Essentials
+### Module 2: From Wafer to Package — Assembly and Manufacturing Essentials
 
 *Focusing on the journey from silicon wafer to finished package, this module delves into assembly processes like die attach, wire bonding, and flip-chip techniques. It also examines molding processes, such as transfer and compression molding, and highlights key manufacturing considerations, including yield optimization and process control*
 
@@ -51,7 +51,7 @@ This course offers a balanced blend of theory and hands-on labs in semiconductor
 - 🏗️ **Lecture 5:**[Wafer Level Packaging And Conclusion](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L5%20-%20Wafer%20Level%20Packaging%20And%20Conclusion/)
 ---
 
-### 🔬 Module 3: Labs — Thermal Simulation of Semiconductor Packages with ANSYS
+### Module 3: Labs — Thermal Simulation of Semiconductor Packages with ANSYS
 
 *Providing hands-on experience, this module guides learners through thermal simulations using ANSYS icepak software. It emphasizes the importance of thermal management in packaging design and teaches how to model heat dissipation and analyze thermal performance to ensure reliability and efficiency*
 
@@ -64,7 +64,7 @@ This course offers a balanced blend of theory and hands-on labs in semiconductor
 
 ---
 
-### ✅ Module 4: Ensuring Package Reliability — Testing and Performance Validatio
+### Module 4: Ensuring Package Reliability — Testing and Performance Validatio
 
 *This module addresses the reliability aspects of semiconductor packages. It covers various testing methodologies, including thermal cycling, mechanical stress tests, and electrical performance evaluations, to validate the durability and functionality of packaging under different operating conditions.*
 
@@ -73,7 +73,7 @@ This course offers a balanced blend of theory and hands-on labs in semiconductor
 
 ---
 
-### 🛠️ Module 5: Package Design and Modeling — Building a Semiconductor Package from Scratch
+### Module 5: Package Design and Modeling — Building a Semiconductor Package from Scratch
 
 *This module offers a step-by-step approach to design a wire bonded semiconductor package using AEDT Q3D Module*
 
