@@ -12,6 +12,10 @@
 
 ![image](https://github.com/user-attachments/assets/30ae92bc-756b-4c0b-976f-7e7f8aff3dae)
 
+### 📌 Flipchip BGA Package - Icepak Design
+![image](https://github.com/user-attachments/assets/16355a6d-87c2-4195-aa4a-499317e9d12e)
+
+
 
 
 
