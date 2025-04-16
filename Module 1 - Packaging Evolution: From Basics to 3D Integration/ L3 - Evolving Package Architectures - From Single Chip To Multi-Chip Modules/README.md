@@ -1,4 +1,4 @@
-## Lecture 3:  L3 - Evolving Package Architectures - From Single Chip To Multi-Chip Modules 
+## Lecture 3: Evolving Package Architectures - From Single Chip To Multi-Chip Modules 
 
 ### 📌 Anatomy of Packages
 
