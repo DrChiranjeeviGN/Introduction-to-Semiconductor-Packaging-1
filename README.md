@@ -20,7 +20,7 @@
 
 ##  Overview
 
-This course offers a balanced blend of theory and hands-on labs in semiconductor packaging. Theoretical modules cover **packaging evolution, assembly processes, design principles, and reliability testing**.
+This course offers a mixture of theory and hands-on labs in semiconductor packaging. Theoretical modules cover **packaging evolution, assembly processes, design principles, and reliability testing**.
 
 🛠️ Hands-on experience includes:
 - 🔥 Thermal simulation of **flip-chip BGA** in **ANSYS Icepak**
