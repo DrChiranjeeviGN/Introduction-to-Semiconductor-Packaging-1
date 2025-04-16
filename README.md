@@ -31,7 +31,7 @@ This repository strives to demystify semiconductor packaging through a modular a
 
 *This module provides an overview of semiconductor packaging, its historical evolution, and its importance in modern electronics.*
 
-- **Lecture 1.1:** [What is Semiconductor Packaging?](./Module1/lecture1-what-is-semiconductor-packaging.md)
+- **Lecture 1.1:** [Lecture 1.1: Introduction To Semiconductor Packaging And Industry Overview](./Module%201%20-%20Packaging%20Evolution%3A%20From%20Basics%20to%203D%20Integration/L1%20-%20Introduction%20To%20Semiconductor%20Packaging%20And%20Industry%20Overview/)
 - **Lecture 1.2:** [Historical Overview and Evolution](./Module1/lecture2-history-and-evolution.md)
 
 ---
