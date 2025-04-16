@@ -1,7 +1,7 @@
 
 # Introduction to Semiconductor Packaging
 
-This repository is a comprehensive guide to semiconductor packaging. It is designed to take you through the journey—from fundamental concepts to advanced topics—with a series of modules and lectures. Whether you are a beginner or an experienced professional, the curated lectures and materials aim to deepen your understanding of the subject.
+This is a course from VSD introducing semiconductor packaging via theory and lab.
 
 ---
 
@@ -21,7 +21,7 @@ This repository is a comprehensive guide to semiconductor packaging. It is desig
 
 ## Overview
 
-This repository strives to demystify semiconductor packaging through a modular approach. Each module contains lectures, notes, and examples that build on one another. The content is organized to facilitate systematic learning and to serve as a reference for both academic studies and industry applications.
+The course covers topics such as 2.5D/3D packaging, wafer-level packaging, and reliability testing, bridging the gap between traditional chip design and modern packaging innovations. Hands-on experience for the thermal simulation of flip-chip BGA in ANSYS Icepak & design of wire-bond package using Q3D is provided 
 
 ---
 
@@ -29,7 +29,7 @@ This repository strives to demystify semiconductor packaging through a modular a
 
 ### Module 1: Packaging Evolution: From Basics to 3D Integration
 
-*This module provides an overview of semiconductor packaging, its historical evolution, and its importance in modern electronics.*
+*.*
 
 - **Lecture 1:** [Introduction To Semiconductor Packaging And Industry Overview](./Module%201%20-%20Packaging%20Evolution%3A%20From%20Basics%20to%203D%20Integration/L1%20-%20Introduction%20To%20Semiconductor%20Packaging%20And%20Industry%20Overview/)
 - **Lecture 2:** [Understanding Package Requirements And Foundational Package Types](./Module%201%20-%20Packaging%20Evolution%3A%20From%20Basics%20to%203D%20Integration/L2%20-%20Understanding%20Package%20Requirements%20And%20Foundational%20Package%20Types/)
@@ -41,7 +41,7 @@ This repository strives to demystify semiconductor packaging through a modular a
 
 ### Module 2: From Wafer to Package: Assembly and Manufacturing Essentials
 
-*Explore the various materials and technologies that underpin semiconductor packaging.*
+**
 
 - **Lecture 1:**[Setting The Stage - Supply Chain And Facilities](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L1%20-%20Setting%20The%20Stage%20-%20Supply%20Chain%20And%20Facilities/)
 - **Lecture 2:**[Wafer Pre-Preparation - Grinding And Dicing](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L2%20-%20Wafer%20Pre-Preparation%20-%20Grinding%20And%20Dicing%20/)
@@ -52,7 +52,7 @@ This repository strives to demystify semiconductor packaging through a modular a
 
 ### Module 3: Labs: Thermal Simulation of Semiconductor Packages with ANSYS
 
-*Dive into the diverse packaging methods and learn about their practical applications.*
+**
 
 - **Lecture 1:**[Introduction And Getting Started With ANSYS Electronics Desktop](./Module%203%20-%20Labs%3A%20Thermal%20Simulation%20of%20Semiconductor%20Packages%20with%20ANSYS%20/%20L1%20-%20Introduction%20And%20Getting%20Started%20With%20ANSYS%20Electronics%20Desktop/)
 - **Lecture 2:**[Setting Up A Flip-Chip BGA Package](./Module%203%20-%20Labs%3A%20Thermal%20Simulation%20of%20Semiconductor%20Packages%20with%20ANSYS%20/%20L2%20-%20Setting%20Up%20A%20Flip-Chip%20BGA%20Package%20/)
@@ -65,7 +65,7 @@ This repository strives to demystify semiconductor packaging through a modular a
 
 ### Module 4: Ensuring Package Reliability: Testing and Performance Validation 
 
-*Understand the standards, testing methods, and reliability concerns that ensure robust semiconductor packaging solutions.*
+**
 
 - **Lecture 1:** [Introduction to Package Testing and Electrical Functionality Checks](./Module%204%20-%20Ensuring%20Package%20Reliability%3A%20Testing%20and%20Performance%20Validation%20/%20L1%20-%20Introduction%20to%20Package%20Testing%20and%20Electrical%20Functionality%20Checks%20/)
 - **Lecture 2:** [Reliability and Performance Testing of Semiconductor Packages](./Module%204%20-%20Ensuring%20Package%20Reliability%3A%20Testing%20and%20Performance%20Validation%20/%20L2%20-%20Reliability%20and%20Performance%20Testing%20of%20Semiconductor%20Packages%20/)
@@ -74,7 +74,7 @@ This repository strives to demystify semiconductor packaging through a modular a
 
 ### Module 5: Package Design and Modeling: Building a Semiconductor Package from Scratch
 
-*Analyze current trends, future directions, and key challenges in semiconductor packaging.*
+**
 
 - **Lecture 1:** [ Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)](./Module%205%20-%20Package%20Design%20and%20Modeling%3A%20Building%20a%20Semiconductor%20Package%20from%20Scratch%20/%20L1%20-%20Introduction%20to%20Package%20Cross-Section%20Modeling%20in%20ANSYS%20Electronics%20Desktop%20(AEDT)/)
 - **Lecture 2:** [Creating the Die and Substrate in AEDT](./Module%205%20-%20Package%20Design%20and%20Modeling%3A%20Building%20a%20Semiconductor%20Package%20from%20Scratch%20/%20L2%20-%20Creating%20the%20Die%20and%20Substrate%20in%20AEDT%20/)
