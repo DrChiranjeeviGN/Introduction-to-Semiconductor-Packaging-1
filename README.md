@@ -15,16 +15,6 @@
   - 🔹 [Module 4: Ensuring Package Reliability: Testing and Performance Validation](#module-4-ensuring-package-reliability-testing-and-performance-validation)
   - 🔹 [Module 5: Package Design and Modeling: Building a Semiconductor Package from Scratch](#module-5-package-design-and-modeling-building-a-semiconductor-package-from-scratch)
  
-## Table of Contents
-
-- [Overview](#overview)
-- [Modules](#modules)
-  - [Module 1: Packaging Evolution: From Basics to 3D Integration](#module-1-packaging-evolution-from-basics-to-3d-integration)
-  - [Module 2: From Wafer to Package: Assembly and Manufacturing Essentials](#module-2-from-wafer-to-package-assembly-and-manufacturing-essentials)
-  - [Module 3: Labs: Thermal Simulation of Semiconductor Packages with ANSYS](#module-3-labs-thermal-simulation-of-semiconductor-packages-with-ansys)
-  - [Module 4: Ensuring Package Reliability: Testing and Performance Validation](#module-4-ensuring-package-reliability-testing-and-performance-validation)
-  - [Module 5: Package Design and Modeling: Building a Semiconductor Package from Scratch](#module-5-package-design-and-modeling-building-a-semiconductor-package-from-scratch)
-
     
 ---
 
