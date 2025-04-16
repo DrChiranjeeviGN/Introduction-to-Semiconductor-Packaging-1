@@ -46,7 +46,7 @@ This course offers a balanced blend of theory and hands-on labs in semiconductor
 
 **
 
-- 🏗️ **Lecture 1:**[Setting The Stage - Supply Chain And Facilities](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L1%20-%20Setting%20The%20Stage%20-%20Supply%20Chain%20And%20Facilities/)
+- 🏗️ **Lecture 1:**[Setting The Stage - Supply Chain And Facilities](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L1%20-%20Setting%20The%20Stage%20-%20Supply%20Chain%20And%20Facilities%20/)
 - 🏗️ **Lecture 2:**[Wafer Pre-Preparation - Grinding And Dicing](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L2%20-%20Wafer%20Pre-Preparation%20-%20Grinding%20And%20Dicing%20/)
 - 🏗️ **Lecture 3:**[Wire Bond Packaging - Die Attach To Molding](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L3%20-%20Wire%20Bond%20Packaging%20-%20Die%20Attach%20To%20Molding/)
 - 🏗️ **Lecture 4:**[Flip Chip Assembly - Bump Formation And Underfill](./Module2%20-%20From%20Wafer%20to%20Package%3A%20Assembly%20and%20Manufacturing%20Essentials/%20L4%20-%20Flip%20Chip%20Assembly%20-%20Bump%20Formation%20And%20Underfill%20/)
