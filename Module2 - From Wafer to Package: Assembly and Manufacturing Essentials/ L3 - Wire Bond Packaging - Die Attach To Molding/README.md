@@ -1,4 +1,4 @@
-## Lecture 2: Wafer Pre-Preparation - Grinding And Dicing 
+## Lecture 3: Wire Bond Packaging - Die Attach To Molding 
 
 ### 📌 Activities inside Cleanroom Area
 
