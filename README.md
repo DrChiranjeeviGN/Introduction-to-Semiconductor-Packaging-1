@@ -7,7 +7,7 @@ This course is structured into **5 comprehensive modules** to help students and 
 
 ## 📚 Table of Contents
 
-1. [Module 1 - Packaging Evolution: From Basics to 3D Integration](#module-1-packaging-evolution--from-basics-to-3d-integration)
+1. [Module 1 - Packaging Evolution: From Basics to 3D Integration](#Module 1 - Packaging Evolution: From Basics to 3D Integration)
 2. [Module 2: Substrate and Interconnect Technologies](#module-2-substrate-and-interconnect-technologies)
 3. [Module 3: Thermal and Mechanical Considerations in Packaging](#module-3-thermal-and-mechanical-considerations-in-packaging)
 4. [Module 4: Advanced Packaging – Fan-Out, Chiplets & 2.5D](#module-4-advanced-packaging--fan-out-chiplets--25d)
