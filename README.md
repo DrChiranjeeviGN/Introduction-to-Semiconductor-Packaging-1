@@ -13,7 +13,7 @@
 -  [Module 2: From Wafer to Package: Assembly and Manufacturing Essentials](#module-2-from-wafer-to-package-assembly-and-manufacturing-essentials)
  -  [Module 3: Labs: Thermal Simulation of Semiconductor Packages with ANSYS](#module-3-labs-thermal-simulation-of-semiconductor-packages-with-ansys)
   - [Module 4: Ensuring Package Reliability: Testing and Performance Validation](#module-4-ensuring-package-reliability-testing-and-performance-validation)
-   -[Module 5: Package Design and Modeling: Building a Semiconductor Package from Scratch](#module-5-package-design-and-modeling-building-a-semiconductor-package-from-scratch)
+  - [Module 5: Package Design and Modeling: Building a Semiconductor Package from Scratch](#module-5-package-design-and-modeling-building-a-semiconductor-package-from-scratch)
 
     
 ---
